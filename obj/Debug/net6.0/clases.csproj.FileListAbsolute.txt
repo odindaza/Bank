@@ -1,0 +1,15 @@
+C:\Users\odind\OneDrive\Escritorio\clases\bin\Debug\net6.0\clases.exe
+C:\Users\odind\OneDrive\Escritorio\clases\bin\Debug\net6.0\clases.deps.json
+C:\Users\odind\OneDrive\Escritorio\clases\bin\Debug\net6.0\clases.runtimeconfig.json
+C:\Users\odind\OneDrive\Escritorio\clases\bin\Debug\net6.0\clases.dll
+C:\Users\odind\OneDrive\Escritorio\clases\bin\Debug\net6.0\clases.pdb
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\clases.csproj.AssemblyReference.cache
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\clases.AssemblyInfoInputs.cache
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\clases.AssemblyInfo.cs
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\clases.csproj.CoreCompileInputs.cache
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\clases.dll
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\refint\clases.dll
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\clases.pdb
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\clases.genruntimeconfig.cache
+C:\Users\odind\OneDrive\Escritorio\clases\obj\Debug\net6.0\ref\clases.dll
